@@ -1,5 +1,3 @@
-# idearqwebgo
-IDEARQ - Arquitetura e Design
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -825,3 +823,4 @@ IDEARQ - Arquitetura e Design
     </script>
 </body>
 </html>
+
